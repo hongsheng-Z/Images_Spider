@@ -1,1 +1,2 @@
 # Images_Spider
+使用scrapy框架对images360网站进行爬取，并将爬取图片保存到本地文件夹，图片信息存入mysql数据库。
